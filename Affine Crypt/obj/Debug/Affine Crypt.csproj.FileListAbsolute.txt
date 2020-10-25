@@ -1,0 +1,12 @@
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\bin\Debug\Affine Crypt.exe.config
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\bin\Debug\Affine Crypt.exe
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\bin\Debug\Affine Crypt.pdb
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine Crypt.csprojAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine_Crypt.AdminPanel.resources
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine_Crypt.CryptForm.resources
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine_Crypt.DecryptForm.resources
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine_Crypt.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine Crypt.csproj.GenerateResource.cache
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine Crypt.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine Crypt.exe
+C:\Users\mrt_b\Desktop\Affine Crypt\Affine Crypt\obj\Debug\Affine Crypt.pdb
